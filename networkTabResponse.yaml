@@ -1,0 +1,789 @@
+Network Tab Response:
+
+{
+    "company_auto_shipment_insurance_setting": false,
+    "covid_zones": {
+        "delivery_zone": null,
+        "pickup_zone": null
+    },
+    "currency": "",
+    "data": {
+        "available_courier_companies": {
+            "air": [
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Trent",
+                    "estimated_delivery_days": "3",
+                    "etd": 56,
+                    "rate": 34.27
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "DTDC 500GMS",
+                    "estimated_delivery_days": "3",
+                    "etd": 70.7,
+                    "rate": 38.2
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Air - Special",
+                    "estimated_delivery_days": "2",
+                    "etd": 36.8,
+                    "rate": 40
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Non Essential",
+                    "estimated_delivery_days": "3",
+                    "etd": 56,
+                    "rate": 40
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Blue Dart Trent",
+                    "estimated_delivery_days": "2",
+                    "etd": 49.8,
+                    "rate": 40
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ekart Logistics",
+                    "estimated_delivery_days": "3",
+                    "etd": 62.8,
+                    "rate": 40.32
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Smartr Logistics",
+                    "estimated_delivery_days": "4",
+                    "etd": 87.1,
+                    "rate": 40.9
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ecom 500gm Air",
+                    "estimated_delivery_days": "3",
+                    "etd": 56,
+                    "rate": 43.84
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery clone 004",
+                    "estimated_delivery_days": "3",
+                    "etd": 56,
+                    "rate": 54.23
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery",
+                    "estimated_delivery_days": "3",
+                    "etd": 72.4,
+                    "rate": 54.23
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Blue Dart",
+                    "estimated_delivery_days": "3",
+                    "etd": 61.8,
+                    "rate": 58
+                }
+            ],
+            "surface": [
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Surface - Special ",
+                    "estimated_delivery_days": "3",
+                    "etd": 55.4,
+                    "rate": 21.24
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery BT Surface",
+                    "estimated_delivery_days": "2",
+                    "etd": 44.4,
+                    "rate": 30.68
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Trent Surface 500gm",
+                    "estimated_delivery_days": "2",
+                    "etd": 54,
+                    "rate": 34.27
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "DTDC Surface",
+                    "estimated_delivery_days": "3",
+                    "etd": 68.8,
+                    "rate": 37
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "DTDC Brands",
+                    "estimated_delivery_days": "3",
+                    "etd": 72.7,
+                    "rate": 37
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Amazon Brands",
+                    "estimated_delivery_days": "3",
+                    "etd": 74.5,
+                    "rate": 38
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ekart Logistics Surface",
+                    "estimated_delivery_days": "3",
+                    "etd": 64.8,
+                    "rate": 40.32
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Amazon Surface 500gm Prepaid",
+                    "estimated_delivery_days": "3",
+                    "etd": 57,
+                    "rate": 44.84
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ecom Express Surface",
+                    "estimated_delivery_days": "2",
+                    "etd": 52.7,
+                    "rate": 48.57
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ecom Brands",
+                    "estimated_delivery_days": "2",
+                    "etd": 50.4,
+                    "rate": 48.57
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ecom Surface premium",
+                    "estimated_delivery_days": "2",
+                    "etd": 42.2,
+                    "rate": 48.57
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Delhivery Surface",
+                    "estimated_delivery_days": "3",
+                    "etd": 65.4,
+                    "rate": 54.23
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Bluedart Surface 500 gms- Select",
+                    "estimated_delivery_days": "2",
+                    "etd": 54.4,
+                    "rate": 54.28
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Blue Dart Surface",
+                    "estimated_delivery_days": "2",
+                    "etd": 54.4,
+                    "rate": 54.28
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ekart Special 500gm Surface",
+                    "estimated_delivery_days": "3",
+                    "etd": 67.6,
+                    "rate": 58
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ekart Brands Store",
+                    "estimated_delivery_days": "2",
+                    "etd": 54,
+                    "rate": 58
+                },
+                {
+                    "cod": 1,
+                    "courier_name": "Ecom Express Surface 2kg",
+                    "estimated_delivery_days": "3",
+                    "etd": 60,
+                    "rate": 83.04
+                }
+            ],
+            "zone": "z_a"
+        },
+        "delivery": {
+            "city": "CHENNAI",
+            "local_region": 0,
+            "metro": 0,
+            "postcode": "600060",
+            "region": 2,
+            "ros": 0,
+            "state": "TAMIL NADU",
+            "state_code": "TN"
+        },
+        "pickup": {
+            "city": "Chennai",
+            "local_region": 0,
+            "metro": 1,
+            "postcode": "600044",
+            "region": 2,
+            "ros": 0,
+            "state": "TAMIL NADU",
+            "state_code": "TN"
+        },
+        "rates": {
+            "Advanced": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "24.78",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "21.24",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "23.6",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "31.86",
+                        "max": "13736.97"
+                    },
+                    "zone_d": {
+                        "min": "36.58",
+                        "max": "13736.97"
+                    },
+                    "zone_e": {
+                        "min": "46.02",
+                        "max": "13736.97"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "29.50",
+                        "max": "45.18"
+                    },
+                    "zone_a": {
+                        "min": "33.2",
+                        "max": "54.59"
+                    },
+                    "zone_b": {
+                        "min": "38",
+                        "max": "63.6"
+                    },
+                    "zone_c": {
+                        "min": "47.4",
+                        "max": "80.24"
+                    },
+                    "zone_d": {
+                        "min": "54.5",
+                        "max": "94.63"
+                    },
+                    "zone_e": {
+                        "min": "71",
+                        "max": "115.25"
+                    }
+                }
+            },
+            "Basic": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "24.78",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "21.24",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "23.6",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "31.86",
+                        "max": "14804"
+                    },
+                    "zone_d": {
+                        "min": "36.58",
+                        "max": "14804"
+                    },
+                    "zone_e": {
+                        "min": "46.02",
+                        "max": "14804"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "42.14",
+                        "max": "48.68"
+                    },
+                    "zone_a": {
+                        "min": "36.5",
+                        "max": "58.3"
+                    },
+                    "zone_b": {
+                        "min": "41.13",
+                        "max": "67.84"
+                    },
+                    "zone_c": {
+                        "min": "47.4",
+                        "max": "85.97"
+                    },
+                    "zone_d": {
+                        "min": "54.5",
+                        "max": "97.98"
+                    },
+                    "zone_e": {
+                        "min": "75.9",
+                        "max": "123.6"
+                    }
+                }
+            },
+            "Basic Plus": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "30.00",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "34",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "39",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "43",
+                        "max": "16284"
+                    },
+                    "zone_d": {
+                        "min": "47",
+                        "max": "16284"
+                    },
+                    "zone_e": {
+                        "min": "68.4",
+                        "max": "16284"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "30.40",
+                        "max": "48.68"
+                    },
+                    "zone_a": {
+                        "min": "35.4",
+                        "max": "55"
+                    },
+                    "zone_b": {
+                        "min": "38.8",
+                        "max": "64"
+                    },
+                    "zone_c": {
+                        "min": "56.33",
+                        "max": "85.97"
+                    },
+                    "zone_d": {
+                        "min": "62.4",
+                        "max": "92.71"
+                    },
+                    "zone_e": {
+                        "min": "78",
+                        "max": "116.6"
+                    }
+                }
+            },
+            "Diamond": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "24.78",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "21.24",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "23.6",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "31.86",
+                        "max": "13736.97"
+                    },
+                    "zone_d": {
+                        "min": "36.58",
+                        "max": "13736.97"
+                    },
+                    "zone_e": {
+                        "min": "46.02",
+                        "max": "13736.97"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "25.70",
+                        "max": "37.77"
+                    },
+                    "zone_a": {
+                        "min": "28.9",
+                        "max": "48.04"
+                    },
+                    "zone_b": {
+                        "min": "31.69",
+                        "max": "53.5"
+                    },
+                    "zone_c": {
+                        "min": "43",
+                        "max": "68.3"
+                    },
+                    "zone_d": {
+                        "min": "49",
+                        "max": "85.5"
+                    },
+                    "zone_e": {
+                        "min": "61",
+                        "max": "98.7"
+                    }
+                }
+            },
+            "HP Custom": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "36.00",
+                        "max": "40.00"
+                    },
+                    "zone_a": {
+                        "min": "31.11",
+                        "max": "41.9"
+                    },
+                    "zone_b": {
+                        "min": "38.81",
+                        "max": "45.2"
+                    },
+                    "zone_c": {
+                        "min": "42",
+                        "max": "56"
+                    },
+                    "zone_d": {
+                        "min": "48.31",
+                        "max": "61"
+                    },
+                    "zone_e": {
+                        "min": "58.41",
+                        "max": "85"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "36.00",
+                        "max": "38.00"
+                    },
+                    "zone_a": {
+                        "min": "31.11",
+                        "max": "33"
+                    },
+                    "zone_b": {
+                        "min": "38.81",
+                        "max": "41.6"
+                    },
+                    "zone_c": {
+                        "min": "44.21",
+                        "max": "50"
+                    },
+                    "zone_d": {
+                        "min": "48.31",
+                        "max": "58.5"
+                    },
+                    "zone_e": {
+                        "min": "58.41",
+                        "max": "70"
+                    }
+                }
+            },
+            "Lite": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "24.78",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "21.24",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "23.6",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "31.86",
+                        "max": "14804"
+                    },
+                    "zone_d": {
+                        "min": "36.58",
+                        "max": "14804"
+                    },
+                    "zone_e": {
+                        "min": "46.02",
+                        "max": "14804"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "40.00",
+                        "max": "52.68"
+                    },
+                    "zone_a": {
+                        "min": "34.27",
+                        "max": "58"
+                    },
+                    "zone_b": {
+                        "min": "41.8",
+                        "max": "68.5"
+                    },
+                    "zone_c": {
+                        "min": "47.4",
+                        "max": "92.6"
+                    },
+                    "zone_d": {
+                        "min": "54.5",
+                        "max": "116.18"
+                    },
+                    "zone_e": {
+                        "min": "71.17",
+                        "max": "139.62"
+                    }
+                }
+            },
+            "Lite Plus": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "35.40",
+                        "max": "41.30"
+                    },
+                    "zone_a": {
+                        "min": "30.68",
+                        "max": "8496"
+                    },
+                    "zone_b": {
+                        "min": "36.6",
+                        "max": "9204"
+                    },
+                    "zone_c": {
+                        "min": "42.48",
+                        "max": "10148"
+                    },
+                    "zone_d": {
+                        "min": "46.02",
+                        "max": "11092"
+                    },
+                    "zone_e": {
+                        "min": "63.72",
+                        "max": "12980"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "35.40",
+                        "max": "53.10"
+                    },
+                    "zone_a": {
+                        "min": "34.2",
+                        "max": "51.9"
+                    },
+                    "zone_b": {
+                        "min": "36.6",
+                        "max": "61.4"
+                    },
+                    "zone_c": {
+                        "min": "57.8",
+                        "max": "92"
+                    },
+                    "zone_d": {
+                        "min": "64.9",
+                        "max": "114"
+                    },
+                    "zone_e": {
+                        "min": "82.6",
+                        "max": "131"
+                    }
+                }
+            },
+            "Pro": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "24.78",
+                        "max": "15.00"
+                    },
+                    "zone_a": {
+                        "min": "21.24",
+                        "max": "8968"
+                    },
+                    "zone_b": {
+                        "min": "23.6",
+                        "max": "11328"
+                    },
+                    "zone_c": {
+                        "min": "31.86",
+                        "max": "13736.97"
+                    },
+                    "zone_d": {
+                        "min": "36.58",
+                        "max": "13736.97"
+                    },
+                    "zone_e": {
+                        "min": "46.02",
+                        "max": "13736.97"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "27.80",
+                        "max": "42.18"
+                    },
+                    "zone_a": {
+                        "min": "31.3",
+                        "max": "53.53"
+                    },
+                    "zone_b": {
+                        "min": "36.04",
+                        "max": "59.36"
+                    },
+                    "zone_c": {
+                        "min": "47.4",
+                        "max": "75.23"
+                    },
+                    "zone_d": {
+                        "min": "54.5",
+                        "max": "92.49"
+                    },
+                    "zone_e": {
+                        "min": "68",
+                        "max": "112.9"
+                    }
+                }
+            },
+            "Shiprocket Custom_Bikayi": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "33.04",
+                        "max": "53.60"
+                    },
+                    "zone_a": {
+                        "min": "29.11",
+                        "max": "53.1"
+                    },
+                    "zone_b": {
+                        "min": "32.99",
+                        "max": "60.48"
+                    },
+                    "zone_c": {
+                        "min": "40.75",
+                        "max": "81.13"
+                    },
+                    "zone_d": {
+                        "min": "46.57",
+                        "max": "81.13"
+                    },
+                    "zone_e": {
+                        "min": "71.8",
+                        "max": "103.25"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "43.79",
+                        "max": "43.79"
+                    },
+                    "zone_a": {
+                        "min": "36.9",
+                        "max": "36.9"
+                    },
+                    "zone_b": {
+                        "min": "39.5",
+                        "max": "39.5"
+                    },
+                    "zone_c": {
+                        "min": "55.6",
+                        "max": "55.6"
+                    },
+                    "zone_d": {
+                        "min": "63.6",
+                        "max": "63.6"
+                    },
+                    "zone_e": {
+                        "min": "75.7",
+                        "max": "75.7"
+                    }
+                }
+            },
+            "Shiprocket Custom_Meta": {
+                "surface": {
+                    "cod_charges": {
+                        "min": "33.00",
+                        "max": "33.00"
+                    },
+                    "zone_a": {
+                        "min": "31",
+                        "max": "9400"
+                    },
+                    "zone_b": {
+                        "min": "32",
+                        "max": "11800"
+                    },
+                    "zone_c": {
+                        "min": "41",
+                        "max": "17000"
+                    },
+                    "zone_d": {
+                        "min": "43",
+                        "max": "17000"
+                    },
+                    "zone_e": {
+                        "min": "64",
+                        "max": "17000"
+                    }
+                },
+                "air": {
+                    "cod_charges": {
+                        "min": "33.00",
+                        "max": "33.00"
+                    },
+                    "zone_a": {
+                        "min": "30.68",
+                        "max": "43.66"
+                    },
+                    "zone_b": {
+                        "min": "31.86",
+                        "max": "49.56"
+                    },
+                    "zone_c": {
+                        "min": "47",
+                        "max": "69.62"
+                    },
+                    "zone_d": {
+                        "min": "55",
+                        "max": "87.32"
+                    },
+                    "zone_e": {
+                        "min": "63.72",
+                        "max": "101.48"
+                    }
+                }
+            }
+        }
+    },
+    "dg_courier": 0,
+    "eligible_for_insurance": false,
+    "insurace_opted_at_order_creation": false,
+    "is_allow_templatized_pricing": false,
+    "is_latlong": 0,
+    "is_old_zone_opted": false,
+    "is_zone_from_mongo": false,
+    "label_generate_type": 0,
+    "on_new_zone": 0,
+    "seller_address": [],
+    "status": 200,
+    "user_insurance_manadatory": false
+}
